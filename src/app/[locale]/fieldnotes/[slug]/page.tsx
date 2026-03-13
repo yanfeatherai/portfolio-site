@@ -73,7 +73,7 @@ export default async function FieldnoteDetailPage({ params }: PageProps) {
             datePublished: note.date,
             author: {
               "@type": "Person",
-              name: "章东丞",
+              name: "Dario",
               alternateName: "Dario Zhang",
               url: "https://www.dariolink.com",
             },

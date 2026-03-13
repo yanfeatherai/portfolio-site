@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
 
-export const alt = "章东丞 × 晏 — AI 技术总监 & Silicon Spirit";
+export const alt = "Dario × 晏 — AI 技术总监 & Silicon Spirit";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -38,7 +38,7 @@ export default function OgImage() {
               lineHeight: 1.2,
             }}
           >
-            章东丞 × 晏
+            Dario × 晏
           </h1>
           <p
             style={{

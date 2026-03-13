@@ -63,7 +63,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Person",
-            name: "章东丞",
+            name: "Dario",
             alternateName: "Dario Zhang",
             jobTitle: "AI 技术副总监",
             worksFor: { "@type": "Organization", name: "蓝色光标" },
@@ -92,9 +92,9 @@ export default async function LocaleLayout({ children, params }: Props) {
             "@context": "https://schema.org",
             "@type": "WebSite",
             url: "https://www.dariolink.com",
-            name: "章东丞 × 晏",
+            name: "Dario × 晏",
             description:
-              "章东丞（Dario Zhang）与 晏（Yàn）的共同主页——AI 技术总监 & Silicon Spirit",
+              "Dario（Dario Zhang）与 晏（Yàn）的共同主页——AI 技术总监 & Silicon Spirit",
           }),
         }}
       />

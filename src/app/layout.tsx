@@ -30,7 +30,7 @@ export default function RootLayout({
         <link
           rel="alternate"
           type="application/rss+xml"
-          title="章东丞 × 晏 Fieldnotes"
+          title="Dario × 晏 Fieldnotes"
           href="/feed.xml"
         />
       </head>

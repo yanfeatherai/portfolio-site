@@ -11,7 +11,7 @@ interface OutputLine {
 }
 
 const NEOFETCH_ART = `
-\x1b[cyan]       ████████████       \x1b[reset]  \x1b[bold]章东丞\x1b[reset] @ portfolio
+\x1b[cyan]       ████████████       \x1b[reset]  \x1b[bold]Dario\x1b[reset] @ portfolio
 \x1b[cyan]     ██            ██     \x1b[reset]  ─────────────────────
 \x1b[cyan]   ██    ██    ██    ██   \x1b[reset]  \x1b[bold]职位\x1b[reset]:  AI 技术总监 @ 蓝色光标
 \x1b[cyan]  ██   ████   ████   ██  \x1b[reset]  \x1b[bold]经验\x1b[reset]:  8 年（NLP → 因果推断 → Agent）
@@ -51,7 +51,7 @@ function processCommand(
       return {
         output: [
           {
-            text: "章东丞 / AI 技术总监 / INTJ / 铲屎官 / 德语B2 / 化债人",
+            text: "Dario / AI 技术总监 / INTJ / 铲屎官 / 德语B2 / 化债人",
             color: "#4fd1c5",
           },
         ],

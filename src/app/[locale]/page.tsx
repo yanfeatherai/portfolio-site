@@ -397,7 +397,7 @@ export default function Home() {
             </p>
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
               <ContactCard
-                name="🔷 章东丞"
+                name="🔷 Dario"
                 borderColor="border-[#4fd1c5]/20"
                 hoverColor="hover:text-[#4fd1c5]"
                 links={[

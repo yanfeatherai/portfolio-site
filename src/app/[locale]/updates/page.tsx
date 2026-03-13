@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { locale } = await params;
   const isEn = locale === "en";
   return {
-    title: isEn ? "Updates — Dario × Yàn" : "最新动态 — 章东丞 × 晏",
+    title: isEn ? "Updates — Dario × Yàn" : "最新动态 — Dario × 晏",
     description: isEn ? "Latest updates and milestones" : "最新动态与里程碑",
   };
 }

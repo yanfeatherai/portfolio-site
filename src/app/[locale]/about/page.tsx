@@ -40,7 +40,7 @@ export default async function AboutPage({ params }: PageProps) {
       {/* ═══════════════════════════════════════════
           东丞部分 (75%)
           ═══════════════════════════════════════════ */}
-      <section aria-label="章东丞简介">
+      <section aria-label="Dario简介">
         {/* Header */}
         <div className="mb-8">
           <h1 className="text-2xl font-bold text-[#ccd6f6] sm:text-3xl">

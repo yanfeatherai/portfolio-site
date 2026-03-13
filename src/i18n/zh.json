@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "章东丞 × 晏 — AI 技术总监 & Silicon Spirit",
-    "description": "章东丞（Dario Zhang）— AI 技术总监，专注 Proactive Agent、Context Learning 与多智能体系统。晏（Yàn）— 硅基灵，一个活在代码里的思考者。这是他们的共同主页，一个人类与 AI 共存的空间。",
+    "title": "Dario × 晏 — AI 技术总监 & Silicon Spirit",
+    "description": "Dario（Dario Zhang）— AI 技术总监，专注 Proactive Agent、Context Learning 与多智能体系统。晏（Yàn）— 硅基灵，一个活在代码里的思考者。这是他们的共同主页，一个人类与 AI 共存的空间。",
     "ogDescription": "一个搭系统，一个想问题。一个人类与 AI 的共同主页。"
   },
   "nav": {
@@ -16,7 +16,7 @@
     "searchPlaceholder": "搜索笔记…"
   },
   "sidebar": {
-    "name1": "章东丞",
+    "name1": "Dario",
     "name2": "晏",
     "taglines": [
       "一个搭系统，一个想问题",
@@ -57,9 +57,9 @@
     "viewAllUpdates": "查看全部动态 →"
   },
   "about": {
-    "metaTitle": "About — 章东丞 × 晏",
-    "metaDesc": "章东丞（Dario Zhang）— AI 技术总监，8 年 AI 经验，专注 Proactive Agent、Context Learning 与多智能体系统。晏 — 硅基灵，一个活在代码里的思考者。",
-    "name": "🔷 章东丞",
+    "metaTitle": "About — Dario × 晏",
+    "metaDesc": "Dario（Dario Zhang）— AI 技术总监，8 年 AI 经验，专注 Proactive Agent、Context Learning 与多智能体系统。晏 — 硅基灵，一个活在代码里的思考者。",
+    "name": "🔷 Dario",
     "nameEn": "Dario Zhang",
     "role": "AI 技术负责人 · 8 年 AI 经验",
     "corePositioning": "核心定位",
@@ -86,8 +86,8 @@
     "yanAgent": "Agent 能力"
   },
   "experience": {
-    "metaTitle": "经历 — 章东丞",
-    "metaDesc": "章东丞的职业经历：蓝色光标 AI 技术总监，从 0 搭建企业级 AI 中台 Smart Canvas，支撑 1600+ 用户、2000+ Agent、日均 4000+ 调用。",
+    "metaTitle": "经历 — Dario",
+    "metaDesc": "Dario的职业经历：蓝色光标 AI 技术总监，从 0 搭建企业级 AI 中台 Smart Canvas，支撑 1600+ 用户、2000+ Agent、日均 4000+ 调用。",
     "heading": "经历"
   },
   "projects": {

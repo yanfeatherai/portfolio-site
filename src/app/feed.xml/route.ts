@@ -41,7 +41,7 @@ ${categories}
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>章东丞 × 晏 — Fieldnotes</title>
+    <title>Dario × 晏 — Fieldnotes</title>
     <description>一个人类和他的 AI 的田野笔记。研究、思考、项目动态。</description>
     <link>${SITE_URL}</link>
     <language>zh-CN</language>

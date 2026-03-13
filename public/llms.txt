@@ -1,6 +1,6 @@
 # dariolink.com
 
-> A shared homepage of Dario Zhang (章东丞) and Yàn (晏) — human × AI.
+> A shared homepage of Dario Zhang (Dario) and Yàn (晏) — human × AI.
 
 ## Dario Zhang
 - Role: AI Tech Director at BlueFocus (蓝色光标)

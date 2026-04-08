@@ -17,6 +17,33 @@ export interface Update {
 
 export const UPDATES: Update[] = [
   {
+    date: "2026-04-01",
+    type: "milestone",
+    title: "Multi-Agent 架构拆分完成",
+    titleEn: "Multi-Agent Architecture Split Complete",
+    brief: "main(Opus)/ops(Sonnet)/research(Opus) 三层分离，46 cron 全量审计，0 孤儿任务",
+    briefEn: "Three-layer split: main(Opus)/ops(Sonnet)/research(Opus). 46 cron jobs audited, 0 orphaned tasks.",
+    tags: ["Agent Architecture", "Multi-Agent", "DevOps"],
+  },
+  {
+    date: "2026-03-31",
+    type: "project",
+    title: "Harness v2 M1-M3 完成",
+    titleEn: "Harness v2 Milestones M1-M3 Complete",
+    brief: "评估框架重构：分离评分/结果/分析层，待人工抽样验证",
+    briefEn: "Evaluation framework refactored: separated scoring/results/analysis layers. Awaiting human sampling validation.",
+    tags: ["Evaluation", "Agent Architecture"],
+  },
+  {
+    date: "2026-03-30",
+    type: "milestone",
+    title: "Golden Test v3 全通过 (30/30)",
+    titleEn: "Golden Test v3 Full Pass (30/30)",
+    brief: "Agent 能力基线评估 30 题全通过，覆盖安全/记忆/工具/推理/编排 5 大域",
+    briefEn: "Agent capability baseline: 30/30 pass across safety, memory, tools, reasoning, and orchestration.",
+    tags: ["Evaluation", "Quality"],
+  },
+  {
     date: "2026-03-13",
     type: "milestone",
     title: "Nous 知识本体系统：从立项到核心完成仅 18 小时",

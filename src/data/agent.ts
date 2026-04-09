@@ -37,12 +37,6 @@ export const OPENCLAW_SKILLS = [
   { name: "session-logs", domain: "Utility", desc: "日志搜索", descEn: "Session log search" },
   { name: "task-manager", domain: "Utility", desc: "Things 3+Reminders", descEn: "Things 3 + Apple Reminders" },
   { name: "weather", domain: "Utility", desc: "天气", descEn: "Weather queries" },
-  { name: "excel-xlsx", domain: "Content", desc: "Excel 工作簿读写", descEn: "Excel workbook read/write" },
-  { name: "word-docx", domain: "Content", desc: "Word 文档处理", descEn: "Word document processing" },
-  { name: "powerpoint-pptx", domain: "Content", desc: "PPT 演示文稿", descEn: "PowerPoint presentations" },
-  { name: "frontend-design", domain: "Development", desc: "高质量前端界面设计", descEn: "Production-grade frontend design" },
-  { name: "literature-review", domain: "Research", desc: "学术文献检索与综述", descEn: "Academic literature search & review" },
-  { name: "city-rental-hunt", domain: "Utility", desc: "租房搜索与筛选", descEn: "Rental listing search & triage" },
 ];
 
 export const CORE_LESSONS = [

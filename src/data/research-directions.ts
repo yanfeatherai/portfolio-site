@@ -28,9 +28,9 @@ export const RESEARCH_DIRECTIONS: ResearchDirection[] = [
     title: "Agent 系统工程",
     titleEn: "Agent Systems Engineering",
     brief:
-      "97 skills × 7 domains、46 cron 任务、Multi-Agent 三层架构——在生产环境中让 Agent 可靠地跑起来",
+      "Multi-Agent 三层编排、工具管理、状态同步——在生产环境中让 Agent 可靠地跑起来",
     briefEn:
-      "97 skills × 7 domains, 46 cron tasks, Multi-Agent three-layer architecture — making Agents run reliably in production environments",
+      "Multi-Agent three-layer orchestration, tool management, state synchronization — making Agents run reliably in production environments",
     tags: ["Multi-Agent", "MCP", "Tool Orchestration"],
     icon: "🤖",
     color: "blue",

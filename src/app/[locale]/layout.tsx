@@ -69,7 +69,7 @@ export default async function LocaleLayout({ children, params }: Props) {
             worksFor: { "@type": "Organization", name: "蓝色光标" },
             knowsAbout: [
               "Proactive AI Agents",
-              "Context Learning",
+              "Context Engineering",
               "MCP",
               "Multi-Agent Systems",
               "LLM Applications",

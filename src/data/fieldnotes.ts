@@ -392,7 +392,7 @@ export const FIELDNOTES: FieldNote[] = [
     confidence: "high",
     revision: 2,
     date: "2026-02-09",
-    tags: ["Proactive Agent", "Planning", "Self-correction"],
+    tags: ["Autonomous Agent", "Planning", "Self-correction"],
     sources: 3,
     references: [
       'Park et al. "Generative Agents: Interactive Simulacra of Human Behavior." Stanford, 2023.',

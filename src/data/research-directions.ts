@@ -42,7 +42,7 @@ export const RESEARCH_DIRECTIONS: ResearchDirection[] = [
       "记忆分层、渐进式注入、上下文隔离——Agent 的智能上限由 Context 质量决定",
     briefEn:
       "Memory layering, progressive injection, context isolation — an Agent's intelligence ceiling is determined by Context quality",
-    tags: ["MemBrain", "Progressive Injection", "Context Isolation"],
+    tags: ["Auto-Recall", "Progressive Injection", "Context Isolation"],
     icon: "🧠",
     color: "purple",
   },

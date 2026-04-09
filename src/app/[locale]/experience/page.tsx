@@ -50,11 +50,11 @@ const EXPERIENCES_ZH: Experience[] = [
     title: "AI 技术总监",
     company: "蓝色光标 BlueFocus",
     description:
-      "从 0 搭建企业级 AI 中台 Smart Canvas，基于 AWS Serverless + MCP 协议 + Buffer of Thoughts 推理框架，支撑全集团 1600+ 员工、2000+ Agent、日均 4000+ 次调用。带 10 人团队完成 AI 工程化转型。",
+      "从 0 搭建企业级 AI 中台 Smart Canvas，基于 AWS Serverless + MCP 协议 + Buffer of Thoughts 推理框架，支撑全集团多团队 AI 工作流。带团队完成 AI 工程化转型。",
     highlights: [
-      "AI 中台 — AWS Serverless + MCP 协议 + Buffer of Thoughts 推理框架，1600+ 员工、2000+ Agent、日均 4000+ 调用",
+      "AI 中台 — AWS Serverless + MCP 协议 + Buffer of Thoughts 推理框架，支撑全集团多团队 AI 工作流",
       "视频 Agent 系统 — 30 天→6 小时，Agent pipeline：脚本生成→素材匹配→智能剪辑→审核优化，因果策略做归因，在雀巢、飞鹤验证落地",
-      "团队管理 — 带 10 人，传统开发→复合型 AI 工程师，AI 辅助编程（Vibe Coding）效率提升约 50%，AI MCN 模式探索",
+      "团队管理 — 带团队，传统开发→复合型 AI 工程师，AI 辅助编程（Vibe Coding）效率提升约 50%，AI MCN 模式探索",
       "获 2024 集团年度 AI Native 个人及团队奖",
       "客户：太保、宁德时代、香格里拉、雀巢、飞鹤",
     ],

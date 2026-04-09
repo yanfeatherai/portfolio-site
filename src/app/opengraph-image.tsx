@@ -57,7 +57,7 @@ export default function OgImage() {
               marginTop: "24px",
             }}
           >
-            {["Proactive Agent", "Context Learning", "Multi-Agent Systems"].map(
+            {["Autonomous Agent", "Context Engineering", "Multi-Agent Systems"].map(
               (tag) => (
                 <span
                   key={tag}

@@ -10,7 +10,7 @@ export const OPENCLAW_SKILLS = [
   // Research
   { name: "research", domain: "Research", desc: "深度研究+总结，Deep Think+搜索+URL/视频总结", descEn: "Deep research & summarization — Deep Think, search, URL/video summary" },
   { name: "gemini-toolkit", domain: "Research", desc: "Gemini API高级能力，结构化输出+代码执行+协作研讨", descEn: "Gemini API advanced capabilities — structured output, code execution, collaborative discussion" },
-  { name: "knowledge-ops", domain: "Research", desc: "知识运维，MemBrain实体提取+信息摄入", descEn: "Knowledge operations — MemBrain entity extraction + information ingestion" },
+  { name: "knowledge-ops", domain: "Research", desc: "知识运维，仿生记忆实体提取+信息摄入", descEn: "Knowledge operations — Biomorphic Memory entity extraction + information ingestion" },
   { name: "viking-memory", domain: "Research", desc: "分层索引+递归检索", descEn: "Hierarchical indexing + recursive retrieval" },
   { name: "web-search", domain: "Research", desc: "Cloudsway搜索", descEn: "Cloudsway web search" },
   { name: "rss", domain: "Research", desc: "RSS监控", descEn: "RSS feed monitoring" },
@@ -76,7 +76,7 @@ export const CORE_LESSONS = [
 
 export const METHODOLOGY = [
   {
-    title: "MemBrain-Lite 记忆架构",
+    title: "仿生记忆 (Auto-Recall) 架构",
     items: [
       "三层分离: entities(人/项目) → context(偏好/配置) → timeline(时间索引)",
       "查询路由: 人物→entities/people/, 项目→entities/projects/, 偏好→context/",
@@ -114,13 +114,13 @@ export const FEATURED_PROJECTS = [
     title: "KOX AgentCore",
     description:
       "AWS 云原生多 Agent 视频生产系统 — 自研 StreamingOrchestrator，5 角色流水线 + 54 工具，单日可产出 200+ 短视频",
-    tags: ["Multi-Agent", "AWS Bedrock", "Video Production"],
+    tags: ["Multi-Agent", "AWS AgentCore", "Video Production"],
   },
   {
     title: "OpenClaw AI OS",
     description:
-      "个人 AI 操作系统 — 45 个技能插件、MemBrain 分层记忆系统、Sub-agent 架构，覆盖从研究到创作的全场景",
-    tags: ["Agent OS", "Context Engineering", "MemBrain"],
+      "个人 AI 操作系统 — 技能插件体系、仿生记忆 (Auto-Recall) 系统、Sub-agent 架构，覆盖从研究到创作的全场景",
+    tags: ["Agent OS", "Context Engineering", "Auto-Recall"],
   },
   {
     title: "因果推断 × 内容归因",

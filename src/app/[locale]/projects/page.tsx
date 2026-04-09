@@ -28,7 +28,7 @@ const NARRATIVES: Narrative[] = [
     title: "企业 AI 基建",
     subtitle: "从零搭建支撑 1600 人的 AI 中台",
     description:
-      "发现各业务线重复造轮子，设计统一中台架构 Smart Canvas，支撑 1600+ 用户和 2000+ Agent。在此基础上搭建视频 Agent 系统，把广告素材生产从 30 天压到 6 小时。带 10 人团队完成从传统开发到 AI 工程化的转型。",
+      "发现各业务线重复造轮子，设计统一中台架构 Smart Canvas。在此基础上搭建视频 Agent 系统，大幅压缩广告素材生产周期。带团队完成从传统开发到 AI 工程化的转型。",
     projects: [
       {
         name: "AI 中台 Smart Canvas",
@@ -42,17 +42,17 @@ const NARRATIVES: Narrative[] = [
         role: "系统架构 & Agent 编排",
         highlight:
           "在中台基础上搭建视频内容全自动生产系统（详见 Multi-Agent 叙事线），30 天→6 小时，在雀巢、飞鹤验证落地",
-        techStack: ["Multi-Agent", "AWS Bedrock", "因果策略"],
+        techStack: ["Multi-Agent", "AWS AgentCore", "因果策略"],
       },
       {
         name: "团队 AI 工程化转型",
         role: "团队负责人",
         highlight:
-          "10 人团队从传统开发转型 AI 工程师，Vibe Coding 效率提升 ~50%。附带搭建 ChatBI 数据分析模块和 Claude Code 企业共享管控",
+          "团队从传统开发转型 AI 工程师，Vibe Coding 效率提升 ~50%。附带搭建 ChatBI 数据分析模块和 Claude Code 企业共享管控",
         techStack: ["Vibe Coding", "Claude Code", "AI MCN"],
       },
     ],
-    keyMetrics: ["1600+ 用户", "2000+ Agent", "30天→6小时", "10 人团队转型"],
+    keyMetrics: ["企业级中台", "多团队支撑", "素材生产效率跃升", "团队 AI 转型"],
     icon: "🏗️",
   },
   {
@@ -66,7 +66,7 @@ const NARRATIVES: Narrative[] = [
         role: "系统架构 & 核心开发",
         highlight:
           "企业级视频全自动生产系统（产品代号 DDD）。自研 StreamingOrchestrator 替代 AWS Swarm；Context Variables 资产引用系统替代 URL 传递，Token↓85-90%",
-        techStack: ["AWS Bedrock", "AgentCore Runtime", "DynamoDB", "ECS", "剪映 API"],
+        techStack: ["AWS AgentCore", "AgentCore Runtime", "DynamoDB", "ECS", "剪映 API"],
       },
       {
         name: "雀巢 KOS AIGC",
@@ -133,13 +133,13 @@ const NARRATIVES: Narrative[] = [
     title: "AI 原生工作方式",
     subtitle: "用 AI 的方式重新定义日常工作",
     description:
-      "搭建个人 AI 操作系统 OpenClaw（30+ 技能 / MemBrain 记忆系统 / 上下文隔离），用 AI 做投资研究（预判→验证→偏差分析闭环），用 AI 一天做出可玩的 Steam 游戏。不是「用了 AI」，是建立了系统化的 AI 工作方法论。",
+      "搭建个人 AI 操作系统 OpenClaw（技能插件 / 仿生记忆系统 / 上下文隔离），用 AI 做投资研究（预判→验证→偏差分析闭环），用 AI 一天做出可玩的 Steam 游戏。不是「用了 AI」，是建立了系统化的 AI 工作方法论。",
     projects: [
       {
         name: "OpenClaw AI Workflow",
         role: "系统设计 & 日常使用",
         highlight:
-          "30+ 技能插件、Sub-agent 架构、MemBrain 记忆管理——设计 AI 如何工作，而非用 AI 写代码",
+          "技能插件、Sub-agent 架构、仿生记忆管理——设计 AI 如何工作，而非用 AI 写代码",
         techStack: ["OpenClaw", "Claude", "Sub-agent", "Context Engineering"],
       },
       {
@@ -157,7 +157,7 @@ const NARRATIVES: Narrative[] = [
         techStack: ["Ren'Py", "Godot", "Seedance", "Claude", "Codex"],
       },
     ],
-    keyMetrics: ["30+ 技能插件", "18 分析脚本", "1天→可玩MVP", "Sub-agent 架构"],
+    keyMetrics: ["技能插件体系", "分析脚本", "1天→可玩MVP", "Sub-agent 架构"],
     icon: "⚡",
   },
   {
@@ -194,7 +194,7 @@ const NARRATIVES: Narrative[] = [
         techStack: ["AI Agent", "行业解决方案"],
       },
     ],
-    keyMetrics: ["5+ 大客户", "3 个行业", "方案→交付→结果", "总监级全链路"],
+    keyMetrics: ["多大客户", "跨行业验证", "方案→交付→结果", "总监级全链路"],
     icon: "🚀",
   },
 ];

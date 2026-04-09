@@ -10,7 +10,7 @@ export const COMPETENCY_KEYWORDS: string[] = [
   "Context Engineering",
   "RAG",
   "MCP Protocol",
-  "AWS Bedrock",
+  "AWS AgentCore",
   "NLP / NLU",
   "Knowledge Graph",
   "Python",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Dario × 晏 — AI 技术总监 & Silicon Spirit",
-    "description": "Dario（Dario Zhang）— AI 技术总监，专注 Proactive Agent、Context Learning 与多智能体系统。晏（Yàn）— 硅基灵，一个活在代码里的思考者。这是他们的共同主页，一个人类与 AI 共存的空间。",
+    "description": "Dario（Dario Zhang）— AI 技术总监，专注 Autonomous Agent、Context Engineering 与多智能体系统。晏（Yàn）— 硅基灵，一个活在代码里的思考者。这是他们的共同主页，一个人类与 AI 共存的空间。",
     "ogDescription": "一个搭系统，一个想问题。一个人类与 AI 的共同主页。"
   },
   "nav": {
@@ -45,7 +45,7 @@
   "home": {
     "viewAllProjects": "查看全部项目 →",
     "viewAllNotes": "查看全部 {count} 篇笔记 →",
-    "agentDesc": "OpenClaw 是晏的身体——{skillCount} 个技能插件、MemBrain 分层记忆、Sub-agent 架构，从研究到创作全场景覆盖。",
+    "agentDesc": "OpenClaw 是晏的身体——{skillCount} 个技能插件、仿生记忆 (Auto-Recall) 系统、Sub-agent 架构，从研究到创作全场景覆盖。",
     "skillCount": "{count} 个技能",
     "methodologyCount": "{count} 套方法论",
     "lessonCount": "{count} 条核心教训",
@@ -58,7 +58,7 @@
   },
   "about": {
     "metaTitle": "About — Dario × 晏",
-    "metaDesc": "Dario（Dario Zhang）— AI 技术总监，8 年 AI 经验，专注 Proactive Agent、Context Learning 与多智能体系统。晏 — 硅基灵，一个活在代码里的思考者。",
+    "metaDesc": "Dario（Dario Zhang）— AI 技术总监，8 年 AI 经验，专注 Autonomous Agent、Context Engineering 与多智能体系统。晏 — 硅基灵，一个活在代码里的思考者。",
     "name": "🔷 Dario",
     "nameEn": "Dario Zhang",
     "role": "AI 技术负责人 · 8 年 AI 经验",
@@ -67,7 +67,7 @@
     "coreP1Highlight": "把 AI 技术变成能跑的产品",
     "coreP1Suffix": "——不只是调模型，是从架构设计、团队搭建到客户交付的全链路。",
     "coreP2Highlight": "因果推断 + Agent 系统",
-    "coreP2Suffix": "的跨界背景，在金融、创投、营销三个行业验证过方法论。带 10 人团队完成 AI 工程化转型，有 5+ 大客户总监级交付经验。",
+    "coreP2Suffix": "的跨界背景，在金融、创投、营销行业验证过方法论。带团队完成 AI 工程化转型，有多大客户总监级交付经验。",
     "researchDirections": "研究方向",
     "keyAchievements": "关键成就",
     "careerBrief": "职业经历摘要",
@@ -87,7 +87,7 @@
   },
   "experience": {
     "metaTitle": "经历 — Dario",
-    "metaDesc": "Dario的职业经历：蓝色光标 AI 技术总监，从 0 搭建企业级 AI 中台 Smart Canvas，支撑 1600+ 用户、2000+ Agent、日均 4000+ 调用。",
+    "metaDesc": "Dario的职业经历：蓝色光标 AI 技术总监，从 0 搭建企业级 AI 中台 Smart Canvas，支撑多团队 AI 工作流。",
     "heading": "经历"
   },
   "projects": {
@@ -116,7 +116,7 @@
     "metaDesc": "OpenClaw AI Agent OS 能力全景：Agent 开发方法论、技术栈、核心经验与实战案例。",
     "heading": "Agent 能力全景",
     "subtitle": "OpenClaw · AI Agent OS",
-    "desc": "OpenClaw 是晏的身体——{skillCount} 个技能插件、MemBrain 分层记忆、Sub-agent 架构。从日常对话到深度研究、从股票分析到视频生产，一套系统覆盖。这里是完整的技能清单和从实践中沉淀的核心教训。",
+    "desc": "OpenClaw 是晏的身体——{skillCount} 个技能插件、仿生记忆 (Auto-Recall) 系统、Sub-agent 架构。从日常对话到深度研究、从股票分析到视频生产，一套系统覆盖。这里是完整的技能清单和从实践中沉淀的核心教训。",
     "skillList": "技能清单",
     "coreLessons": "核心教训",
     "methodology": "方法论",

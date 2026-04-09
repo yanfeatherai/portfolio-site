@@ -140,7 +140,7 @@ function processCommand(
               text: "奇绩创坛 1 年：因果算法做创投数据驱动尽调",
             },
             {
-              text: "蓝色光标 2 年：AI 中台 Smart Canvas（1600+ 用户）",
+              text: "蓝色光标：AI 中台 Smart Canvas",
             },
             { text: "" },
             {
@@ -148,7 +148,7 @@ function processCommand(
               color: "#4fd1c5",
             },
             {
-              text: "当前方向：主动式 Agent 系统 + Context Learning",
+              text: "当前方向：自主式 Agent 系统 + Context Engineering",
               color: "#4fd1c5",
             },
             { text: "" },

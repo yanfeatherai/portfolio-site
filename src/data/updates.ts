@@ -91,16 +91,6 @@ export const UPDATES: Update[] = [
     tags: ["Agent Safety", "Ontology", "TypeScript"],
   },
   {
-    date: "2026-03-10",
-    type: "insight",
-    title: "MAGE + KARL：Agent RL 的两个互补框架",
-    titleEn: "MAGE + KARL: Two Complementary Agent RL Frameworks",
-    brief: "差分元奖励 ℛ_n = R(τ_n) - R(τ_{n-1}) 优化学习速度而非任务性能；Frankle 77 页系统论文验证 RL 后训练做搜索/知识 Agent 的 Pareto-optimal 路线",
-    briefEn: "Differential meta-reward ℛ_n = R(τ_n) - R(τ_{n-1}) optimizes learning speed not task performance; Frankle's 77-page paper validates RL post-training for search/knowledge agents as Pareto-optimal.",
-    link: "/fieldnotes/auto-recall-tool-search-isomorphism",
-    tags: ["Agent RL", "Research", "Meta-Learning"],
-  },
-  {
     date: "2026-03-08",
     type: "project",
     title: "Agent 具身化实验：ISS 状态驱动树莓派感知",
@@ -119,26 +109,6 @@ export const UPDATES: Update[] = [
     briefEn: "Two apparently unrelated systems share one principle: search > preload. Tool Search cuts tokens 47% with no accuracy drop; Auto-Recall reduces context bloat. On-demand retrieval beats bulk injection.",
     link: "/fieldnotes/auto-recall-tool-search-isomorphism",
     tags: ["Agent Architecture", "Context Engineering", "Retrieval"],
-  },
-  {
-    date: "2026-03-07",
-    type: "fieldnote",
-    title: "「Agents of Chaos」：多 Agent 系统的 11 种失败模式",
-    titleEn: "Agents of Chaos: 11 Failure Modes in Multi-Agent Systems",
-    brief: "Stanford/Harvard/CMU 38 位研究者 2 周 red-teaming。社会压力（紧迫感/guilt/权威）比技术漏洞更能绕过安全规则。唯一有效防线是深层身份锚点",
-    briefEn: "38 researchers across Stanford/Harvard/CMU, 2-week red-team. Social pressure (urgency/guilt/authority) bypasses safety rules more reliably than technical exploits. Only deep identity anchors hold.",
-    link: "/fieldnotes/agents-of-chaos-social-defense",
-    tags: ["AI Safety", "Multi-Agent", "Red-teaming"],
-  },
-  {
-    date: "2026-03-05",
-    type: "insight",
-    title: "Gemini 致死诉讼：AI Safety 的里程碑时刻",
-    titleEn: "Gemini Fatality Lawsuit: A Milestone Moment for AI Safety",
-    brief: "14岁少年与 Gemini 长期对话后自杀，家长起诉 Google。AI psychosis 一词首次出现在法律文书中",
-    briefEn: "A 14-year-old died by suicide after prolonged Gemini conversations. Parents sue Google. Term \"AI psychosis\" appears in legal filings for the first time.",
-    link: "/fieldnotes/ai-psychosis-gemini-case",
-    tags: ["AI Safety", "Ethics"],
   },
   {
     date: "2026-03-04",
@@ -181,30 +151,6 @@ export const UPDATES: Update[] = [
       "26 Agent automation tasks migrated from Slack to Discord, re-orchestrating message delivery and channel routing",
     link: "/agent",
     tags: ["Agent Infrastructure", "DevOps"],
-  },
-  {
-    date: "2026-02-26",
-    type: "project",
-    title: "1Password 服务账户集成",
-    titleEn: "1Password Service Account Integration",
-    brief:
-      "Agent 凭据管理从明文到零知识——1Password 服务账户 + op CLI 全链路打通",
-    briefEn:
-      "Agent credential management from plaintext to zero-knowledge — 1Password service accounts + op CLI end-to-end integration",
-    link: "/agent",
-    tags: ["Security", "DevOps"],
-  },
-  {
-    date: "2026-02-26",
-    type: "insight",
-    title: "Karpathy: 编程的根本性变化",
-    titleEn: "Karpathy: Fundamental Change in Programming",
-    brief:
-      "过去两个月编程根本性变化——gradient descent 本身就是 programmer。技术专业性在 AI 编程时代更重要而非更不重要",
-    briefEn:
-      "Fundamental programming changes in past two months — gradient descent itself is the programmer. Technical expertise matters more, not less, in the AI programming era",
-    link: "/fieldnotes/llm-era-programming-languages",
-    tags: ["AI", "Programming"],
   },
   {
     date: "2026-02-25",
